@@ -1,6 +1,7 @@
 package org.bootcamp.dao;
 
 import org.bootcamp.model.VehicleInfo;
+import org.springframework.stereotype.Component;
 
 import java.util.List;
 import java.util.ArrayList;
